@@ -1,0 +1,14 @@
+header nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  gap: 30px;
+  overflow-x: auto;
+  font-weight: normal;
+}
+
+nav ul {
+  list-style-type: none;
+  text-decoration: none;
+  color: #7fc6a4;
+}
